@@ -1,0 +1,16 @@
+.hero-banner {
+  height: 500px;
+  display: flex;
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-banner a{
+  background-color: rgba(121, 216, 134, 0.85);
+  border-radius: 50px;
+  padding: 12px;
+}
